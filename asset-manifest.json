@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/reversible-music/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/reversible-music/static/js/main.0141cb67.chunk.js",
-    "main.js.map": "/reversible-music/static/js/main.0141cb67.chunk.js.map",
-    "runtime-main.js": "/reversible-music/static/js/runtime-main.9a927f62.js",
-    "runtime-main.js.map": "/reversible-music/static/js/runtime-main.9a927f62.js.map",
-    "static/js/2.a8bf9591.chunk.js": "/reversible-music/static/js/2.a8bf9591.chunk.js",
-    "static/js/2.a8bf9591.chunk.js.map": "/reversible-music/static/js/2.a8bf9591.chunk.js.map",
-    "static/js/3.bd2fb65c.chunk.js": "/reversible-music/static/js/3.bd2fb65c.chunk.js",
-    "static/js/3.bd2fb65c.chunk.js.map": "/reversible-music/static/js/3.bd2fb65c.chunk.js.map",
-    "index.html": "/reversible-music/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/reversible-music/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.a8bf9591.chunk.js.LICENSE.txt": "/reversible-music/static/js/2.a8bf9591.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/reversible-music/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/static/js/main.0141cb67.chunk.js",
+    "main.js.map": "/static/js/main.0141cb67.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a9830b1d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a9830b1d.js.map",
+    "static/js/2.a8bf9591.chunk.js": "/static/js/2.a8bf9591.chunk.js",
+    "static/js/2.a8bf9591.chunk.js.map": "/static/js/2.a8bf9591.chunk.js.map",
+    "static/js/3.bd2fb65c.chunk.js": "/static/js/3.bd2fb65c.chunk.js",
+    "static/js/3.bd2fb65c.chunk.js.map": "/static/js/3.bd2fb65c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a8bf9591.chunk.js.LICENSE.txt": "/static/js/2.a8bf9591.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a927f62.js",
+    "static/js/runtime-main.a9830b1d.js",
     "static/js/2.a8bf9591.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.0141cb67.chunk.js"
