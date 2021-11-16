@@ -11,7 +11,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "http://davidmv74.github.io/reversible-music",
+  "homepage": "https://www.reversiblemusic.com",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
