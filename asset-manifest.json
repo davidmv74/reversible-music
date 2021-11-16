@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reversible-music/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/reversible-music/static/js/main.219b8c20.chunk.js",
-    "main.js.map": "/reversible-music/static/js/main.219b8c20.chunk.js.map",
+    "main.js": "/reversible-music/static/js/main.270e919e.chunk.js",
+    "main.js.map": "/reversible-music/static/js/main.270e919e.chunk.js.map",
     "runtime-main.js": "/reversible-music/static/js/runtime-main.9a927f62.js",
     "runtime-main.js.map": "/reversible-music/static/js/runtime-main.9a927f62.js.map",
     "static/js/2.a8bf9591.chunk.js": "/reversible-music/static/js/2.a8bf9591.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9a927f62.js",
     "static/js/2.a8bf9591.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.219b8c20.chunk.js"
+    "static/js/main.270e919e.chunk.js"
   ]
 }
