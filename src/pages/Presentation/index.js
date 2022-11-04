@@ -75,7 +75,7 @@ function Presentation() {
             <MKTypography
               variant="h1"
               color="white"
-              mt={-6}
+              mt={4}
               mb={1}
               sx={({ breakpoints, typography: { size } }) => ({
                 [breakpoints.down("md")]: {
@@ -86,33 +86,13 @@ function Presentation() {
               Reversible Music
             </MKTypography>
             <MKTypography
-              variant="body1"
+              variant="h3"
               color="white"
               textAlign="center"
               px={{ xs: 6, lg: 12 }}
               mt={1}
             >
-              Reversible is a Cuban Avant-garde Rock band, founded in 2021 by Marco Alonso drummer, 
-              saxophonist and composer and William Pacheco guitar player and composer. This project 
-              incorporates several influences, including progressive rock, jazz fusion, psychedelic 
-              music, ambient, space rock, word music and electroacoustic music. The art of Reversible 
-              has a conceptual and eclectic approach and this music invites the viewer to live an 
-              immersive sensory experience.
-            </MKTypography>
-            <MKTypography
-              variant="body1"
-              color="white"
-              textAlign="center"
-              px={{ xs: 6, lg: 12 }}
-              mt={1}
-            >
-              The first phonogram of the band bears the name of Answers, 
-              a 3-track EP where the listener can immerse himself in a particularly personal sound. 
-              After this first cut the album will be released called Walking blind. An album of 10 
-              long-winded pieces that lead us to reflection and introspection, with a prominently 
-              spiritual nuance, a visual journey influenced by cinematographic and literary art, 
-              themes such as transcendence, worldview and life after death are reflected in sounds, 
-              sinuous melodies and atmospheres wrap this album.
+              Coming Soon...
             </MKTypography>
           </Grid>
         </Container>
