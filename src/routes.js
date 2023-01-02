@@ -45,6 +45,7 @@ import Icon from "@mui/material/Icon";
 import Gallery from "layouts/pages/landing-pages/gallery";
 
 
+
 const routes = [
   {
     name: "gallery",
