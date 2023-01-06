@@ -17,15 +17,17 @@ import bgImage from "assets/images/bg-presentation.jpg";
 
 function Gallery() {
   const driveImageIDs = [
-    "15PJPfzzmptBf_j_8GHkb5bfs9msTKDcp",
+    "1Qw6ka4QzO5g87ewkpR8Y8zaWVffvd3Op",
+    "1o8tfN7dgSb1Sel13alw_7jdnbssPC1cA",
+    "1uwUdSBtvGDdp6wJCIxU8Pslm6lcSPHwm",
+    "1ZIfHClp2KYocELbjuAxqxpYBVrlYxKav",
     "185hKti02Eth-QbBxfPvFPo2FIuBT7Wzy",
-    "1nA-hlay8gO4N6qI1LuiN1DuK-_bcRnKw",
     "173Li9Q0vwP0yZnQzkwID7mC1Xj9KfAB-",
     "16vorSqgYUOA8hYCS5jLF_ojBsQr60_yi",
     "16n3vR4tBhXyDWNe8dxK4cbUZW0oGAewP",
     "16gDJEJ4AOgVkjn27UWjJ2F2bskl7d0O9",
     "1zLfo26JW4Xzp7-VxIolE2kg4rwgAxX-M",
-    "1iJSlTLMOvpar-Z6LXQAN_aAhrhzNAvDB"
+    "1iJSlTLMOvpar-Z6LXQAN_aAhrhzNAvDB",
   ];
   return (
     <>
